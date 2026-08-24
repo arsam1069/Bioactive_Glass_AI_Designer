@@ -1,0 +1,17 @@
+START HERE
+==========
+
+This is the Python Streamlit version of the Bioactive Glass AI Designer.
+
+Best route for you:
+1. Upload this whole folder to GitHub.
+2. Deploy it on Streamlit Cloud.
+3. Use the app in your browser.
+
+Main app file:
+app.py
+
+Local run command, only if Python is installed:
+streamlit run app.py
+
+If local Python gives errors, do not waste time. Use Streamlit Cloud.
